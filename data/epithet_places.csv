@@ -1,0 +1,80 @@
+place,iso2,region,british,stems,taxa_wikidata,taxa_with_key,sampled,with_records,assessed,yes,share_yes,lon,lat
+Abyssinia (Ethiopia),ET,0,0,abyssinica abyssinicus abyssinicum,767,628,120,48,39,35,89.7,39.5,9.0
+Arabia,SA YE OM AE QA KW BH,1,0,arabica arabicus arabicum,919,793,120,47,42,36,85.7,46.0,22.0
+Argentina,AR,0,0,argentinensis,275,216,40,16,16,16,100.0,-63.97,-37.091
+Australia,AU,0,0,australiensis,853,767,40,20,19,19,100.0,133.081,-24.923
+Austria,AT,0,0,austriaca austriacus austriacum,389,332,120,63,55,48,87.3,14.764,47.695
+Azores,PT,0,0,azorica azoricus azoricum,225,210,107,73,72,71,98.6,-27.5,38.6
+Balearic Islands,ES,0,0,balearica balearicus balearicum,233,207,113,53,52,49,94.2,2.9,39.6
+Bolivia,BO,0,0,bolivianus boliviana bolivianum,922,760,120,62,55,52,94.5,-64.286,-16.288
+Borneo,MY ID BN,1,0,borneensis,990,827,40,21,20,18,90.0,114.0,1.0
+Brazil,BR,0,0,brasiliensis,2137,1641,40,18,17,17,100.0,-49.728,-14.239
+Britain,GB,0,1,britannica britannicus britannicum,167,151,151,98,84,76,90.5,-2.3,54.3
+California,US,0,0,californica californicus californicum,2105,1913,120,82,81,79,97.5,-119.5,37.2
+Canada,CA,0,0,canadensis,722,667,40,24,23,22,95.7,-110.431,56.837
+Canary Islands,ES,0,0,canariensis,630,585,40,21,19,19,100.0,-15.6,28.3
+Cape (South Africa),ZA,0,0,capensis,1879,1659,40,22,21,17,81.0,19.5,-33.6
+Carolina,US,0,0,carolinensis carolinianus carolinana,450,413,82,39,36,34,94.4,-80.0,34.8
+Caucasus,GE AM AZ RU TR IR,1,0,caucasica caucasicus caucasicum,951,802,120,56,48,44,91.7,44.0,42.7
+Chile,CL,0,0,chilensis,1254,1106,40,22,20,18,90.0,-71.496,-35.71
+China,CN TW HK MO,1,0,sinensis chinensis,3424,2870,80,45,40,38,95.0,98.604,36.904
+Colombia,CO,0,0,colombiana colombianus colombianum,558,487,120,58,56,55,98.2,-72.586,4.113
+Congo,CD CG AO,1,0,congensis,91,90,40,23,21,20,95.2,21.0,-2.5
+Cornwall,GB,0,1,cornubiensis,17,17,17,7,6,5,83.3,-4.9,50.4
+Corsica,FR,0,0,corsica corsicus corsicum,350,311,120,73,70,69,98.6,9.1,42.1
+Crete,GR,0,0,creticus cretica creticum,447,405,119,56,54,50,92.6,24.9,35.2
+Cuba,CU,0,0,cubensis,722,636,40,26,23,22,95.7,-77.952,21.52
+Cyprus,CY,0,0,cypria cyprius,191,178,80,36,35,31,88.6,32.98,34.905
+Denmark,DK,0,0,danica danicus danicum,177,102,75,46,33,25,75.8,9.26,56.274
+Ecuador,EC,0,0,ecuadorensis,304,270,40,18,18,16,88.9,-78.281,-1.789
+Egypt,EG,0,0,aegyptiaca aegyptiacus aegyptiacum,387,315,120,38,32,22,68.8,29.464,26.824
+England,GB,0,1,anglica anglicus anglicum,172,143,143,83,80,70,87.5,-1.5,52.6
+Florida,US,0,0,floridana floridanus floridanum,960,866,120,87,86,84,97.7,-81.6,28.3
+France,FR,0,0,gallica gallicus gallicum,356,314,120,56,50,47,94.0,2.188,46.706
+Germany,DE,0,0,germanica germanicus germanicum,223,191,120,66,61,48,78.7,10.481,51.085
+Greece,GR,0,0,graeca graecus graecum,502,448,120,51,47,43,91.5,21.953,39.07
+Guinea,GN GW SL LR CI GH TG BJ NG CM GQ GA,1,0,guineensis,507,440,40,15,13,11,84.6,-2.0,7.5
+Hawaii,US,0,0,hawaiiensis,408,376,40,19,19,19,100.0,-155.5,19.6
+Himalaya,NP IN BT CN PK,1,0,himalayana himalayanus himalayanum himalaica himalaicus himalaicum,441,363,192,86,83,83,100.0,84.0,28.6
+Hungary,HU,0,0,hungarica hungaricus hungaricum,490,415,119,46,37,20,54.1,19.119,47.158
+Iceland,IS,0,0,islandica islandicus islandicum,230,216,105,48,30,23,76.7,-18.468,64.965
+India,IN PK BD LK NP BT,1,0,indica indicus indicum,3910,3273,120,48,42,33,78.6,80.227,21.787
+Ireland,IE,0,1,hibernica hibernicus hibernicum,170,151,151,79,67,41,61.2,-8.0,53.3
+Italy,IT,0,0,italica italicus italicum,590,540,120,54,43,32,74.4,12.692,42.492
+Jamaica,JM,0,0,jamaicensis,583,513,40,22,21,19,90.5,-77.176,18.119
+Japan,JP,0,0,japonica japonicus japonicum,4035,3456,120,60,51,45,88.2,143.338,43.462
+Java,ID,0,0,javanica javanicus javanicum,1251,1073,120,40,33,29,87.9,110.0,-7.3
+Korea,KR KP,1,0,koreana koreanus koreanum,664,445,114,64,60,56,93.3,128.011,36.46
+London,GB,0,1,londinensis,16,14,14,4,4,3,75.0,-0.12,51.5
+Madagascar,MG,0,0,madagascariensis,1179,1057,40,15,15,14,93.3,46.729,-18.769
+Madeira,PT,0,0,maderensis,183,168,40,23,22,18,81.8,-16.95,32.75
+Mauretania (North Africa),MA DZ,1,0,mauritanica mauritanicus mauritanicum,269,230,102,50,40,35,87.5,-2.0,33.5
+Mexico,MX,0,0,mexicana mexicanus mexicanum,3198,2757,120,65,65,61,93.8,-102.258,23.629
+Mongolia,MN,0,0,mongolica mongolicus mongolicum,684,574,120,44,34,23,67.6,105.408,46.859
+Natal (South Africa),ZA,0,0,natalensis,1068,934,40,22,22,20,90.9,30.6,-29.2
+Nepal,NP,0,0,nepalensis,844,690,40,12,12,11,91.7,83.103,28.377
+New Zealand,NZ,0,0,novae-zelandiae novaezelandiae zealandica zealandicus zealandicum,542,480,174,109,104,104,100.0,171.234,-43.595
+Norway,NO,0,0,norvegica norvegicus norvegicum,333,312,120,80,62,56,90.3,22.697,79.852
+Patagonia,AR CL,1,0,patagonica patagonicus patagonicum,728,661,120,67,65,63,96.9,-69.0,-45.0
+Persia (Iran),IR,0,0,persica persicus persicum,841,712,120,53,45,36,80.0,54.0,32.5
+Peru,PE,0,0,peruviana peruvianus peruvianum,1589,1402,120,70,65,61,93.8,-75.768,-9.183
+Philippines,PH,0,0,philippinensis,1083,926,40,16,15,14,93.3,125.244,7.698
+Poland,PL,0,0,polonica polonicus polonicum,181,151,109,47,40,28,70.0,19.156,51.92
+Portugal,PT,0,0,lusitanica lusitanicus lusitanicum,519,442,120,67,60,52,86.7,-8.292,39.565
+Sardinia,IT,0,0,sardoa sardous,217,202,80,31,28,24,85.7,9.0,40.1
+Scotland,GB,0,1,scotica scoticus scoticum,155,143,143,69,63,50,79.4,-4.2,56.8
+Senegal,SN,0,0,senegalensis,611,519,40,15,13,11,84.6,-14.657,14.489
+Siberia,RU,0,0,sibirica sibiricus sibiricum,947,820,120,65,56,53,94.6,100.0,62.0
+Sicily,IT,0,0,sicula siculus siculum,517,448,120,50,42,37,88.1,14.1,37.5
+Spain,ES,0,0,hispanica hispanicus hispanicum,755,676,120,52,49,48,98.0,-3.477,39.899
+Sri Lanka,LK,0,0,ceylanica ceylanicus ceylanicum zeylanica zeylanicus zeylanicum,685,605,225,93,80,64,80.0,80.667,7.879
+Sumatra,ID,0,0,sumatrana sumatranus sumatranum,952,819,120,46,42,38,90.5,101.5,0.0
+Sweden,SE,0,0,suecica suecicus suecicum,164,147,101,74,64,56,87.5,14.905,62.195
+Switzerland,CH,0,0,helvetica helveticus helveticum,348,294,120,62,43,30,69.8,8.427,46.812
+Taiwan,TW,0,0,formosana formosanus formosanum taiwanensis,2084,1827,160,73,69,65,94.2,120.828,23.617
+Tasmania,AU,0,0,tasmanica tasmanicus tasmanicum tasmaniensis,888,737,160,97,96,94,97.9,146.6,-42.0
+Texas,US,0,0,texana texanus texanum texensis,1139,1015,160,121,119,119,100.0,-99.3,31.3
+Tibet,CN IN NP BT,1,0,tibetana tibetanus tibetanum,305,240,94,21,20,20,100.0,88.0,31.5
+Venezuela,VE,0,0,venezuelensis,316,270,40,26,25,21,84.0,-65.41,6.421
+Virginia,US,0,0,virginiana virginianus virginianum virginica virginicus virginicum,400,363,225,141,137,128,93.4,-78.6,37.5
+Wales,GB,0,1,cambrica cambricus cambricum,47,41,41,21,19,17,89.5,-3.7,52.3

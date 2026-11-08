@@ -1,0 +1,68 @@
+kind	qid	name	action	iso2	reason
+place	Q15	Africa	countries	@Africa	Continent; Wikidata gives only the Republic of the Congo. Tested against every African country (Natural Earth).
+place	Q46	Europe	countries	@Europe	Continent; Wikidata gives only Poland. Tested against every European country (Natural Earth).
+place	Q48	Asia	countries	@Asia	Continent; Wikidata gives only China. Tested against every Asian country (Natural Earth).
+place	Q103251	Macedonia	countries	GR MK BG AL	Historical region spanning Greece, North Macedonia and Bulgaria; Wikidata gives only North Macedonia.
+place	Q23522	Balkans	countries	AL BA BG GR HR ME MK RS XK	Peninsula spanning several countries; Wikidata gives only North Macedonia.
+place	Q650667	Guyanas	countries	GY SR GF	The Guianas: Guyana, Suriname and French Guiana; Wikidata gives only Suriname.
+place	Q5477	Caucasus Mountains	countries	GE AM AZ RU	Mountain range spanning Georgia, Armenia, Azerbaijan and Russia; Wikidata gives only Georgia and Russia.
+place	Q161062	Togoland	countries	TG GH	German protectorate covering today's Togo and eastern Ghana.
+place	Q221353	Arabia Petraea	countries	JO SA EG IL PS SY	Roman province covering Jordan, Sinai, the Negev, southern Syria and north-west Arabia; Wikidata gives only Jordan.
+taxon	Q13598262	Drosophila montana	exclude		Wrong namesake link: Wikidata links the state of Montana, but montana is Latin for 'of the mountains'.
+taxon	Q15239688	Petrorhagia alpina	exclude		Wrong namesake link: Wikidata links the Alps; alpina (Hablitz) means 'alpine' for a plant of the Caucasus and Central Asia.
+taxon	Q16269363	Veronica ornata	exclude		Wrong namesake link: Wikidata links Dongting Lake (China); ornata means 'ornate' and the plant is Japanese.
+taxon	Q14575906	Aedes daliensis	exclude		Wrong namesake link: Wikidata links Dali (Yunnan, China); the mosquito is from northern Australia (Northern Territory and Western Australia), where the Daly River is.
+taxon	Q391868	Agave potrerana	exclude		Wrong namesake link: Wikidata links Potrero Peak (United States); the agave is native to Chihuahua and Coahuila, Mexico.
+taxon	Q20904321	Dipodomys merriami trinidadensis	exclude		Wrong namesake link: Wikidata links the Caribbean island of Trinidad; the subspecies lives in southern California and northern Baja California.
+taxon	Q18080713	Canarium salomonense	exclude		Wrong namesake link: Wikidata links Salomon Atoll in the Chagos Archipelago, not the Solomon Islands.
+taxon	Q15505248	Astracantha arnacantha	exclude		Wrong namesake link: Wikidata links Aytos (Bulgaria), which belongs to the subspecies aitosensis, not to arnacantha; also a synonym key.
+taxon	Q1931572	Benthodesmus vityazi	exclude		Namesake is the research ship Vityaz, not a place (also caught by the ship and institution filter).
+taxon	Q10590514	Musa cheesmanii	exclude		Wrong namesake link (Mêdog County): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q1076881	Dalbergia nigra	exclude		Wrong namesake link (Bahia): the link follows the common name, not the scientific name (Bahia rosewood). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q1194614	Rudbeckia laciniata	exclude		Wrong namesake link (Wesenitz): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q11054561	Staphylea forrestii	exclude		Wrong namesake link (Songming County): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q10936807	Diospyros balfouriana	exclude		Wrong namesake link (Dali): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q11063671	Ilex franchetiana	exclude		Wrong namesake link (Kangding): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q15248225	Actinodaphne tsaii	exclude		Wrong namesake link (Maguan County): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q15382221	Ilex huana	exclude		Wrong namesake link (Xiuying District): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q15225898	Mahonia subimbricata	exclude		Wrong namesake link (Jingxi): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q15230710	Ophiorrhiza hispidula	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q15247791	Eria pudica	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q17298278	Mesoceros porcatus	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q4995512	Bulbophyllum protractum	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q7180239	Phalaenopsis mannii	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q14859593	Dendrocalamus hamiltonii	exclude		Wrong namesake link (Xishuangbanna Dai Autonomous Prefecture): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q137918271	Processina nigroscens	exclude		Wrong namesake link (Ruili): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q134741682	Psenulus ephippius	exclude		Wrong namesake link (Ma On Shan): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q147230	Torreornis inexpectata	exclude		Wrong namesake link (Zapata Peninsula): the link follows the common name, not the scientific name (Zapata sparrow). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q1157559	Mammuthus lamarmorai	exclude		Wrong namesake link (Sardinia): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q165354	Citrus ×aurantifolia	exclude		Wrong namesake link (Florida Keys): the link follows the common name, not the scientific name (Key lime). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q1758845	Antheraea polyphemus	exclude		Wrong namesake link (United States): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q1924754	Vidua maryae	exclude		Wrong namesake link (Jos Plateau): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q208705	Cynodon dactylon	exclude		Wrong namesake link (Bermuda): the link follows the common name, not the scientific name (Bermuda grass). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q2274578	Spea multiplicata	exclude		Wrong namesake link (New Mexico): the link follows the common name, not the scientific name (New Mexico spadefoot). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q25317	Tyto alba	exclude		Wrong namesake link (Malta): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q2703156	Diaspidiotus perniciosus	exclude		Wrong namesake link (San Jose): the link follows the common name, not the scientific name (San Jose scale). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q27503973	Modisimus mariposas	exclude		Wrong namesake link (Mirabal sisters): the namesake is a group of people (the Mirabal sisters), not a place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q2908844	Boiga dightoni	exclude		Wrong namesake link (Peermade): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q3013007	Ostrea lurida	exclude		Wrong namesake link (Olympia): the link follows the common name, not the scientific name (Olympia oyster). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q3071706	Ficus religiosa	exclude		Wrong namesake link (Bodhi Tree): the namesake is a tree (the Bodhi Tree), not a place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q312378	Anoplophora glabripennis	exclude		Wrong namesake link (Asia): the link follows the common name, not the scientific name (Asian long-horned beetle). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q31874414	Illadopsis distans	exclude		Wrong namesake link (Tanzania): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q391522	Dromaius baudinianus	exclude		Wrong namesake link (Kangaroo Island): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q41524	Acherontia atropos	exclude		Wrong namesake link (Acheron): the name is mythological (Atropos; Acheron), not the river in Greece. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q42710	Bubalus bubalis	exclude		Wrong namesake link (Asia): the link follows the common name, not the scientific name (Asian water buffalo). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q4988390	Trogoderma angustum	exclude		Wrong namesake link (Berlin; Stockholm): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q55112189	Sylvia atriceps	exclude		Wrong namesake link (Rwenzori Mountains): the link follows the common name, not the scientific name (Rwenzori hill babbler). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q591987	Polyplectron napoleonis	exclude		Wrong namesake link (Palawan): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q632399	Phalacrocorax nigrogularis	exclude		Wrong namesake link (Socotra): the link follows the common name, not the scientific name (Socotra cormorant). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q6411301	Profundulus guatemalensis	exclude		Wrong namesake link (Honduras): Wikidata links Honduras; the epithet names Guatemala. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q651814	Procyon pygmaeus	exclude		Wrong namesake link (Cozumel Municipality): the link follows the common name, not the scientific name (Cozumel raccoon). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q7181156	Phebalium daviesii	exclude		Wrong namesake link (St Helens): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q757000	Atlantisia rogersi	exclude		Wrong namesake link (Inaccessible Island): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q81850701	Pleurobema athearni	exclude		Wrong namesake link (Big Canoe Creek): the epithet honours a person, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q854788	Capra cylindricornis	exclude		Wrong namesake link (East Caucasus): the link follows the common name, not the scientific name (East Caucasian tur). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q916025	Melipotes gymnops	exclude		Wrong namesake link (Arfak Mountains): the link follows the common name, not the scientific name (Arfak honeyeater). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q17748786	Verbascum spathulisepalum	exclude		Wrong namesake link (Rhodope Mountains): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q24877802	Lespedeza thunbergii subsp. formosa	exclude		Wrong namesake link (Taiwan Island): formosa is Latin for beautiful, not Taiwan (Formosa). Found in the hand check of names whose epithet does not echo the namesake.
+taxon	Q28682845	Nemalionopsis tortuosa	exclude		Wrong namesake link (a spring in Japan): the epithet is a descriptive word, not the linked place. Found in the hand check of names whose epithet does not echo the namesake.

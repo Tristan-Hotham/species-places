@@ -1,0 +1,54 @@
+qid	name	namesake	category	action	note
+Q732371	Lodoicea maldivica	Maldives	misnomer	kept	Coco de mer: nuts washed up on the Maldives; grows wild only in the Seychelles (Crouzet 2024).
+Q60622492	Pitta guajana	Guyanas	misnomer	kept	Javan banded pitta (Hydrornis guajanus): named from Buffon's 'merle de la Guiane'; type locality corrected to Java.
+Q2344450	Ranodon sibiricus	Siberia	misnomer	kept	Type locality 'near Semipalatinsk' is erroneous; lives in the Dzungarian Alatau of Kazakhstan and China (Frost 2026).
+Q1502531	Dracunculus medinensis	Medina	not recorded	kept	"Little dragon from Medina" (EID 2016): the worm was once common in Arabia; it is now near eradication and GBIF has no Saudi records.
+Q680290	Elephas melitensis	Malta	not recorded	kept	Fossil dwarf elephant of Malta and Sicily; GBIF fossil records only from Sicily.
+Q123631490	Microdyromys monspeliensis	Montpellier	not recorded	kept	Fossil dormouse; GBIF records from Germany and Bosnia only.
+Q1164873	Panthera gombaszoegensis	Gombasek	not recorded	kept	Fossil cat named for its type site in Slovakia; GBIF fossil records elsewhere in Europe and Africa.
+Q23759105	Bradgatia linfordensis	Newtown Linford	not recorded	kept	Ediacaran fossil from Charnwood Forest, Leicestershire; GBIF records only from Newfoundland.
+Q72168337	Notidanus aptiensis	Apt	not recorded	kept	Fossil shark; GBIF records from England and Australia.
+Q96775136	Suillellus caucasicus	Caucasus Mountains	not recorded	kept	Bolete described from the Caucasus; GBIF records from western Europe only (test countries widened to GE AM AZ RU).
+Q6836556	Aspergillus egyptiacus	Egypt	not recorded	kept	Soil fungus; records from Australia and Arabia, none in Egypt.
+Q5191064	Cryptosporiopsis tarraconensis	Province of Tarragona	not recorded	kept	Fungus; records from Britain and the United States.
+Q128828685	Cordyceps ningxiaensis	Ningxia	not recorded	kept	Fungus described from Ningxia; GBIF records from Scandinavia, Iceland and New Guinea (probably misidentified records).
+Q108179129	Phlebia wuliangshanensis	Wuliang Shan	not recorded	kept	Fungus described from Yunnan; GBIF records only from Pakistan.
+Q10443829	Catatemnus togoensis	Togoland	not recorded	kept	Pseudoscorpion; records only from DR Congo (test countries widened to Togo and Ghana).
+Q10876679	Camellia indochinensis	Mainland Southeast Asia	not recorded	kept	Records from China only.
+Q15330696	Euonymus kachinensis	Kachin State	not recorded	kept	Records just across the border in China.
+Q18082206	Melicope pahangensis	Pahang	not recorded	kept	Records from China and Indochina.
+Q17746016	Verbascum adrianopolitanum	Edirne	not recorded	kept	Edirne (Adrianople) is on the Turkish border; records from Greece and Bulgaria.
+Q2938258	Carex argunensis	Ergun City	not recorded	kept	Argun river border; records on the Russian side.
+Q98543534	Raorchestes cangyuanensis	Cangyuan Va Autonomous County	not recorded	kept	Border county; records just across the border in Myanmar.
+Q1950473	Callionymus hainanensis	Hainan Island	not recorded	kept	Marine fish; records in Vietnamese waters.
+Q478458	Leucoraja melitensis	Malta	not recorded	kept	Maltese skate; marine records coded to Italy, Algeria, Spain and Tunisia.
+Q13446015	Bryopa melitensis	Malta	not recorded	kept	Marine bivalve; records from Italy, Spain and Greece.
+Q4471752	Periclimenes mahei	Mahé	not recorded	kept	Marine shrimp with its type from Mahé, Seychelles; GBIF records from Australia and Mayotte.
+Q30114453	Hedysarum grandiflorum subsp. bulgaricum	Bulgaria	not recorded	kept	Records from Ukraine and Russia.
+Q3048249	Edraianthus serbicus	Serbia	not recorded	kept	Records from Bulgaria (and the United States).
+Q3495431	Stachys serbica	Serbia	not recorded	kept	Records from Greece only.
+Q6450650	Bachia guianensis	Guyanas	not recorded	kept	Records from Colombia and Venezuela (test countries widened to Guyana, Suriname, French Guiana).
+Q333103	Hydrornis guajanus	Guyanas	duplicate	removed	Same GBIF accepted taxon and namesake as Pitta guajana (synonym key).
+Q10432389	Boletus caucasicus	Caucasus Mountains	duplicate	removed	Same GBIF accepted taxon and namesake as Suillellus caucasicus.
+Q117098	Brettanomyces bruxellensis	Brussels	duplicate	removed	Same accepted taxon as Dekkera bruxellensis, which is recorded in Belgium.
+Q14266896	Gymnancyla ruscinonella	Ruscino	duplicate	removed	Same accepted taxon as Bazaria ruscinonella, which is recorded in France.
+Q25658117	Stigmatopelia senegalensis	Senegal	duplicate	removed	Same accepted taxon as Spilopelia senegalensis, which is recorded in Senegal.
+Q126903016	Curruca curruca margelanica	Margilan	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q139372896	Psammochloa mongolica	Mongolia	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q15225795	Berberis sikkimensis	Sikkim	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q26962139	Brachymystax lenok tsinlingensis	Qinling	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q53818198	Giraffa camelopardalis angolensis	Angola	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q7485514	Aethionema arabicum	Arabia Petraea	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q84331166	Perenniporia japonica	Japan	synonym key	not assessed	Synonym key: only records filed under this name; absence not shown.
+Q10623645	Perenniporia africana	Africa	region corrected	now recorded there	Continent given a single country (Congo) in Wikidata; records in Zimbabwe and Uganda.
+Q15599428	Senecio macedonicus	Macedonia	region corrected	now recorded there	Region of Macedonia includes Greek Macedonia, where the records are.
+Q30116192	Poa macedonica	Macedonia	region corrected	now recorded there	Region of Macedonia includes Greek Macedonia, where the records are.
+Q13598262	Drosophila montana	Montana	wrong link	removed	montana means 'of the mountains', not the state of Montana.
+Q15239688	Petrorhagia alpina	Alps	wrong link	removed	alpina means 'alpine'; a plant of the Caucasus and Central Asia.
+Q16269363	Veronica ornata	Dongting Lake	wrong link	removed	ornata is not a place word; a Japanese plant.
+Q14575906	Aedes daliensis	Dali	wrong link	removed	Australian mosquito (Northern Territory, Western Australia), not from Dali in Yunnan.
+Q391868	Agave potrerana	Potrero Peak	wrong link	removed	Mexican agave (Chihuahua, Coahuila), linked to a peak in the United States.
+Q20904321	Dipodomys merriami trinidadensis	Trinidad	wrong link	removed	Kangaroo rat of southern California and Baja California, linked to the island of Trinidad.
+Q18080713	Canarium salomonense	Salomon Islands	wrong link	removed	Linked to Salomon Atoll (Chagos), not the Solomon Islands.
+Q15505248	Astracantha arnacantha	Aytos	wrong link	removed	Aytos belongs to the subspecies aitosensis; also a synonym key.
+Q1931572	Benthodesmus vityazi	Vityaz	wrong link	removed	Named after the research ship Vityaz, not a place.

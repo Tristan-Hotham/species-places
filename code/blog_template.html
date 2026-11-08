@@ -1,0 +1,127 @@
+<!-- wp:paragraph -->
+<p><em>Thousands of plants and animals are named after a place. Do they actually live there? I matched {{named.taxa|int}} of them to millions of biodiversity records. Mostly they do. But the coco de mer, named for the Maldives, grows in the Seychelles, and a bird named for South America lives in Java.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/species-places/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24058123">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Scientific names are full of places. There is a <em>japonica</em> for almost every Japanese plant you can think of, frogs named after mountains, beetles after provinces and moths after towns. The rule of thumb is simple: a species is usually named after the place its first specimen came from. So you would expect it to live there. But naturalists make mistakes, specimens get mixed up on long voyages, borders move, and once a name is published it sticks, however wrong it turns out to be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wikidata, the open database behind Wikipedia, records for some species what their name commemorates. Leaving out duplicates and names that honour ships or universities, I found {{named.taxa|int}} species and subspecies named after a place with coordinates, and asked the Global Biodiversity Information Facility (GBIF), which pools records from museums, herbaria and citizen science around the world, where each one has been recorded.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_world.png|World map on parchment with small green dots at the places species are named after, crowded in China, Japan, Europe and the Americas, and red dots with red lines to the ranges of species not recorded there|Every namesake place I could test. Green: GBIF records the species in that country. Red: it has at least five records, none of them there.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Mostly, they live there</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Many species are known from a handful of specimens, so I could only test {{named.assessed_life|int}} plants, animals and fungi. Of those, {{named.yes_pc|pc}} have at least one record in the country of the place they are named after, {{named.majority_pc|pc}} have most of their records there, and {{named.all_pc|pc}} have never been recorded anywhere else. That is less of a triumph than it sounds: the specimen a species was named from is often in GBIF itself, so one record at home is easy. But it does mean the names are, on the whole, honest.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_share.png|Histogram of the share of each species' GBIF records that are in its namesake's country, with a tall bar at 100% and a small red bar for none|For each species, the share of its records that are in its namesake's country. Two thirds are never recorded anywhere else.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The misnamed</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>{{named.no|int}} have at least five records and none in their namesake's country. I checked every case by hand. My first pass found {{review.n|int}}, but {{review.errors|int}} of those were mistakes in the data rather than in the names: the same species entered twice under an old and a new name, regions such as Macedonia or Africa pinned on a single country, synonyms that hold only a sliver of a species' records, and links to the wrong place altogether. A kangaroo rat from Baja California was linked to the island of Trinidad, and a fruit fly called <em>montana</em>, "of the mountains", to the state of Montana. I removed or corrected all of those.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What is left includes some famous misnomers. The coco de mer, <em>Lodoicea maldivica</em>, the palm with the biggest seed in the world, was named for the Maldives, where Portuguese sailors found its nuts washed ashore and assumed that was where they grew. It grows wild only in the Seychelles, and {{feat.Lodoicea maldivica.top.0.1|int}} of its {{feat.Lodoicea maldivica.n|int}} GBIF records are there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Javan banded pitta (<em>Pitta guajana</em> in GBIF, <em>Hydrornis guajanus</em> in most bird lists) carries the name of the Guianas in South America, because an early description put it there; {{feat.Pitta guajana.top.0.1|int}} of its {{feat.Pitta guajana.n|int}} records are in Indonesia. The Central Asian salamander, <em>Ranodon sibiricus</em>, is named for Siberia but lives in the mountains of Kazakhstan and western China, and its original type locality is thought to be a mistake.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_misnamed.png|World map with arrows from the place each of seven species is named after to where it is mostly recorded: Maldives to Seychelles, the Guianas to Java, Siberia to Kazakhstan, Medina to Benin, Malta to Sicily, Leicestershire to Newfoundland, Egypt to Australia|From the name to the range: arrows run from the place in a species' name to the country with most of its records.}}
+
+<!-- wp:paragraph -->
+<p>Most of the rest are not misnomers but gaps in the records. The Guinea worm, <em>Dracunculus medinensis</em>, is the "little dragon from Medina"; it was once common in Arabia, but is now close to eradicated and GBIF holds no Saudi records. <em>Elephas melitensis</em>, an extinct dwarf elephant, lived on Malta, but its {{feat.Elephas melitensis.n|int}} GBIF fossil records are all from Sicily. <em>Bradgatia linfordensis</em>, a fossil more than 550 million years old from Charnwood Forest in Leicestershire, is recorded in GBIF only from Newfoundland. Others sit just over a border: a mullein named for Edirne in Turkey is recorded just across the border in Greece and Bulgaria, but not in Turkey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>The coco de mer was named for the Maldives, where its nuts washed up. It grows only in the Seychelles.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Fungi and microbes wander</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Reptiles, insects and spiders are the most faithful: {{groups.reptiles.yes_pc|pc}}, {{groups.insects.yes_pc|pc}} and {{groups.arachnids.yes_pc|pc}} are recorded at home. Birds are recorded at home {{groups.birds.yes_pc|pc}} of the time, but only {{groups.birds.majority_pc|pc}} have most of their records there, because birdwatchers log widespread species everywhere. Fungi ({{groups.fungi.yes_pc|pc}}) and microbes ({{groups.microbes.yes_pc|pc}}) do worst: <em>Aspergillus egyptiacus</em>, a fungus first described in Egypt, has {{feat.Aspergillus egyptiacus.n|int}} GBIF records, {{feat.Aspergillus egyptiacus.top.0.1|int}} of them in Australia and none in Egypt, and many microbe records are strains kept in laboratories far from home.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_groups.png|Bar chart by group showing the share of species recorded in their namesake's country, above 90% for most groups and lowest for fungi and microbes|Share recorded in the namesake's country, and share with most records there, by group.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Anglica, scotica, hibernica</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most species named for a place say so in Latin rather than in Wikidata. I listed {{ep.stems|int}} Latin place adjectives and found {{ep.taxa_wikidata|int}} species ending in one. I checked every British and Irish one with a GBIF key, and a random sample of up to 40 for each of the other adjectives, weighted back up to the full list. About {{ep.nonbrit_weighted_yes_pc|pc}} of the non-British ones are recorded in their place, but only {{ep.brit_yes_pc|pc}} of the British ones, from {{ep.brit.Britain.yes_pc|pc}} for <em>britannica</em> down to {{ep.brit.Ireland.yes_pc|pc}} for <em>hibernica</em> (where I only count the Republic).</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_epithets.png|World map with a circle for each place named by a Latin epithet, sized by the number of species and coloured by the share recorded there: mostly green, with orange and red for Hungary, Egypt and Mongolia|Latin place epithets: the share of sampled species recorded in the named country or region.}}
+
+<!-- wp:paragraph -->
+<p>Some are proper puzzles. <em>Robertus scoticus</em>, a small "Scottish" spider, has {{ep.brit_feat.robertus.n|int}} GBIF records, from Finland, Norway and Sweden, and none from Britain. Others only look British: <em>Chrysoblephus anglicus</em> is a South African sea bream, known locally as the Englishman, and <em>Urophyllum britannicum</em> is recorded only in Papua New Guinea, home of the island of New Britain.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_british.png|Bar chart of British and Irish epithets, from britannica and cambrica near 90% recorded in the country to hibernica near 60%|British and Irish epithets: the share of species recorded in the UK (hibernica: the Republic of Ireland).}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From Wikidata I took every species and subspecies with a "named after" link to a place with coordinates, its country, and its GBIF identifier. For each one I asked GBIF how many records with coordinates it holds, how many in each country, and the box that encloses them. A species counts as recorded at home if any record is in its namesake's country (including overseas territories GBIF lists separately, such as French Guiana, and every country of a region that spans borders), and as missing if it has at least five records and none there. Records under a synonym can show that a species is at home but not that it is absent, so those cases are left untested. Besides every case of a missing species, I checked by hand a random 30 of those recorded at home, and every name whose Latin does not echo its namesake: {{named.excluded|int}} links in all turned out to point at the wrong thing, often a person or a common name (the Bermuda grass, the Key lime), and are left out. On the interactive page you can tap any dot to see the species, its records and the box around them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The caveats matter. GBIF is a record of where people have looked and shared data, heavily skewed towards Europe, North America and Australia. A single type specimen can make a species look at home, while missing records say little. A country is a blunt unit: a species named for Siberia passes if it is recorded anywhere in Russia. Records at sea count for a country only when GBIF places them in its waters, and namesakes out at sea or in Antarctica cannot be tested at all. The boxes are cruder still, and Wikidata's links are patchy and, as above, sometimes wrong. So treat any single species as a lead to follow up, not a verdict.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/species-places/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.24058123">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/species-places">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Taxa and their namesakes: <a href="https://www.wikidata.org/">Wikidata</a> (CC0). Occurrence counts, range boxes and classification: <a href="https://www.gbif.org/">GBIF.org</a> APIs, 2026; only aggregated counts are shared.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Coco de mer history: Guillemette Crouzet (2024), <a href="https://www.capasia.eu/the-forbidden-fruit-of-paradise-the-discovery-of-the-coco-de-mer-seychelles-treasured-national-symbol/">The forbidden fruit of paradise?</a>, Capasia; Ranodon type locality: D. R. Frost, <a href="https://amphibiansoftheworld.amnh.org/">Amphibian Species of the World</a>; Guinea worm name: Etymologia, Emerging Infectious Diseases 22(8), 2016.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>On GBIF's biases: Beck and others (2014), Ecological Informatics 19, 10 to 15; Meyer, Weigelt and Kreft (2016), Ecology Letters 19(8), 992 to 1006.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

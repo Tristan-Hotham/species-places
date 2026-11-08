@@ -1,0 +1,856 @@
+{
+ "min_n": 5,
+ "named": {
+  "wikidata_items": 2988,
+  "duplicates": 51,
+  "notplace": 36,
+  "excluded": 58,
+  "synonym_absent": 7,
+  "taxa": 2901,
+  "species": 2745,
+  "subspecies": 156,
+  "with_key": 2423,
+  "key_by_match": 175,
+  "with_records": 1375,
+  "no_country": 9,
+  "few": 53,
+  "assessed": 1248,
+  "assessed_life": 1210,
+  "microbes_assessed": 38,
+  "yes_pc": 97.60330578512396,
+  "no": 29,
+  "majority_pc": 87.60330578512396,
+  "all_pc": 70.0,
+  "microbe_yes_pc": 65.78947368421053,
+  "median_n": 10.0,
+  "n100": 253,
+  "n100_yes_pc": 98.41897233201581,
+  "n100_majority_pc": 71.14624505928853,
+  "no_box0": 9,
+  "no_median_box_km": 216.9,
+  "no_box1000": 7
+ },
+ "groups": {
+  "amphibians": {
+   "name": "Amphibians",
+   "n": 59,
+   "yes_pc": 96.61016949152543,
+   "majority_pc": 86.4406779661017,
+   "no": 2
+  },
+  "arachnids": {
+   "name": "Spiders, mites and scorpions",
+   "n": 47,
+   "yes_pc": 97.87234042553192,
+   "majority_pc": 95.74468085106383,
+   "no": 1
+  },
+  "birds": {
+   "name": "Birds",
+   "n": 54,
+   "yes_pc": 98.14814814814815,
+   "majority_pc": 68.51851851851852,
+   "no": 1
+  },
+  "fish": {
+   "name": "Fish",
+   "n": 74,
+   "yes_pc": 95.94594594594594,
+   "majority_pc": 89.1891891891892,
+   "no": 3
+  },
+  "fungi": {
+   "name": "Fungi and lichens",
+   "n": 26,
+   "yes_pc": 80.76923076923077,
+   "majority_pc": 53.84615384615385,
+   "no": 5
+  },
+  "insects": {
+   "name": "Insects",
+   "n": 151,
+   "yes_pc": 100.0,
+   "majority_pc": 93.37748344370861,
+   "no": 0
+  },
+  "inverts": {
+   "name": "Other invertebrates",
+   "n": 98,
+   "yes_pc": 95.91836734693877,
+   "majority_pc": 89.79591836734694,
+   "no": 4
+  },
+  "mammals": {
+   "name": "Mammals",
+   "n": 66,
+   "yes_pc": 95.45454545454545,
+   "majority_pc": 81.81818181818183,
+   "no": 3
+  },
+  "microbes": {
+   "name": "Microbes, viruses and other",
+   "n": 38,
+   "yes_pc": 65.78947368421053,
+   "majority_pc": 26.31578947368421,
+   "no": 13
+  },
+  "plants": {
+   "name": "Plants",
+   "n": 587,
+   "yes_pc": 98.46678023850085,
+   "majority_pc": 88.9267461669506,
+   "no": 9
+  },
+  "reptiles": {
+   "name": "Reptiles",
+   "n": 48,
+   "yes_pc": 97.91666666666666,
+   "majority_pc": 87.5,
+   "no": 1
+  }
+ },
+ "kinds": {
+  "country": {
+   "n": 124,
+   "yes_pc": 93.54838709677419,
+   "majority_pc": 70.16129032258065
+  },
+  "island": {
+   "n": 176,
+   "yes_pc": 98.86363636363636,
+   "majority_pc": 88.06818181818183
+  },
+  "mountain": {
+   "n": 148,
+   "yes_pc": 98.64864864864865,
+   "majority_pc": 93.24324324324324
+  },
+  "other": {
+   "n": 99,
+   "yes_pc": 97.97979797979798,
+   "majority_pc": 84.84848484848484
+  },
+  "region or settlement": {
+   "n": 607,
+   "yes_pc": 97.52883031301482,
+   "majority_pc": 89.45634266886327
+  },
+  "water": {
+   "n": 56,
+   "yes_pc": 100.0,
+   "majority_pc": 94.64285714285714
+  }
+ },
+ "feat": {
+  "Lodoicea maldivica": {
+   "qid": "Q732371",
+   "name": "Lodoicea maldivica",
+   "place": "Maldives",
+   "iso2": "MV",
+   "n": 301,
+   "group": "plants",
+   "top": [
+    [
+     "SC",
+     292,
+     "Seychelles"
+    ],
+    [
+     "FR",
+     2,
+     "France"
+    ],
+    [
+     "NO",
+     2,
+     "Norway"
+    ],
+    [
+     "BR",
+     1,
+     "Brazil"
+    ],
+    [
+     "DE",
+     1,
+     "Germany"
+    ],
+    [
+     "LK",
+     1,
+     "Sri Lanka"
+    ]
+   ],
+   "box_km": 0.0
+  },
+  "Pitta guajana": {
+   "qid": "Q60622492",
+   "name": "Pitta guajana",
+   "place": "Guyanas",
+   "iso2": "GF GY SR",
+   "n": 353,
+   "group": "birds",
+   "top": [
+    [
+     "ID",
+     301,
+     "Indonesia"
+    ],
+    [
+     "MY",
+     34,
+     "Malaysia"
+    ],
+    [
+     "TH",
+     14,
+     "Thailand"
+    ],
+    [
+     "CN",
+     2,
+     "China"
+    ],
+    [
+     "US",
+     2,
+     "United States"
+    ]
+   ],
+   "box_km": 16979.3
+  },
+  "Ranodon sibiricus": {
+   "qid": "Q2344450",
+   "name": "Ranodon sibiricus",
+   "place": "Siberia",
+   "iso2": "RU",
+   "n": 226,
+   "group": "amphibians",
+   "top": [
+    [
+     "KZ",
+     220,
+     "Kazakhstan"
+    ],
+    [
+     "CN",
+     6,
+     "China"
+    ]
+   ],
+   "box_km": 1556.7
+  },
+  "Dracunculus medinensis": {
+   "qid": "Q1502531",
+   "name": "Dracunculus medinensis",
+   "place": "Medina",
+   "iso2": "SA",
+   "n": 25,
+   "group": "inverts",
+   "top": [
+    [
+     "BJ",
+     17,
+     "Benin"
+    ],
+    [
+     "US",
+     6,
+     "United States"
+    ],
+    [
+     "AU",
+     1,
+     "Australia"
+    ],
+    [
+     "IN",
+     1,
+     "India"
+    ]
+   ],
+   "box_km": 0.0
+  },
+  "Elephas melitensis": {
+   "qid": "Q680290",
+   "name": "Elephas melitensis",
+   "place": "Malta",
+   "iso2": "MT",
+   "n": 31,
+   "group": "mammals",
+   "top": [
+    [
+     "IT",
+     31,
+     "Italy"
+    ]
+   ],
+   "box_km": 122.3
+  },
+  "Verbascum adrianopolitanum": {
+   "qid": "Q17746016",
+   "name": "Verbascum adrianopolitanum",
+   "place": "Edirne",
+   "iso2": "TR",
+   "n": 14,
+   "group": "plants",
+   "top": [
+    [
+     "GR",
+     9,
+     "Greece"
+    ],
+    [
+     "BG",
+     4,
+     "Bulgaria"
+    ],
+    [
+     "US",
+     1,
+     "United States"
+    ]
+   ],
+   "box_km": 0.0
+  },
+  "Bradgatia linfordensis": {
+   "qid": "Q23759105",
+   "name": "Bradgatia linfordensis",
+   "place": "Newtown Linford",
+   "iso2": "AI BM FK GB GG GI GS IM IO JE KY MS PN SH TC VG",
+   "n": 16,
+   "group": "inverts",
+   "top": [
+    [
+     "CA",
+     16,
+     "Canada"
+    ]
+   ],
+   "box_km": 3578.9
+  },
+  "Suillellus caucasicus": {
+   "qid": "Q96775136",
+   "name": "Suillellus caucasicus",
+   "place": "Caucasus Mountains",
+   "iso2": "AM AZ GE RU",
+   "n": 39,
+   "group": "fungi",
+   "top": [
+    [
+     "FR",
+     20,
+     "France"
+    ],
+    [
+     "ES",
+     7,
+     "Spain"
+    ],
+    [
+     "CH",
+     6,
+     "Switzerland"
+    ],
+    [
+     "GB",
+     5,
+     "United Kingdom"
+    ],
+    [
+     "SI",
+     1,
+     "Slovenia"
+    ]
+   ],
+   "box_km": 2446.4
+  },
+  "Aspergillus egyptiacus": {
+   "qid": "Q6836556",
+   "name": "Aspergillus egyptiacus",
+   "place": "Egypt",
+   "iso2": "EG",
+   "n": 393,
+   "group": "fungi",
+   "top": [
+    [
+     "AU",
+     297,
+     "Australia"
+    ],
+    [
+     "OM",
+     53,
+     "Oman"
+    ],
+    [
+     "QA",
+     31,
+     "Qatar"
+    ],
+    [
+     "AE",
+     5,
+     "United Arab Emirates"
+    ],
+    [
+     "MA",
+     3,
+     "Morocco"
+    ],
+    [
+     "MX",
+     2,
+     "Mexico"
+    ]
+   ],
+   "box_km": 0.0
+  }
+ },
+ "no_top": [
+  {
+   "name": "Aspergillus egyptiacus",
+   "place": "Egypt",
+   "n": 393,
+   "top": "AU:297 OM:53 QA:31 AE:5 MA:3 MX:2",
+   "group": "fungi"
+  },
+  {
+   "name": "Pitta guajana",
+   "place": "Guyanas",
+   "n": 353,
+   "top": "ID:301 MY:34 TH:14 CN:2 US:2",
+   "group": "birds"
+  },
+  {
+   "name": "Lodoicea maldivica",
+   "place": "Maldives",
+   "n": 301,
+   "top": "SC:292 FR:2 NO:2 BR:1 DE:1 LK:1",
+   "group": "plants"
+  },
+  {
+   "name": "Ranodon sibiricus",
+   "place": "Siberia",
+   "n": 226,
+   "top": "KZ:220 CN:6",
+   "group": "amphibians"
+  },
+  {
+   "name": "Panthera gombaszoegensis",
+   "place": "Gombasek",
+   "n": 61,
+   "top": "NL:17 TZ:8 FR:6 ES:5 GB:5 HU:4",
+   "group": "mammals"
+  },
+  {
+   "name": "Melicope pahangensis",
+   "place": "Pahang",
+   "n": 45,
+   "top": "CN:35 LA:6 VN:3 KH:1",
+   "group": "plants"
+  },
+  {
+   "name": "Cordyceps ningxiaensis",
+   "place": "Ningxia",
+   "n": 40,
+   "top": "SE:22 NO:8 PG:4 IS:3 GL:2 RU:1",
+   "group": "fungi"
+  },
+  {
+   "name": "Suillellus caucasicus",
+   "place": "Caucasus Mountains",
+   "n": 39,
+   "top": "FR:20 ES:7 CH:6 GB:5 SI:1",
+   "group": "fungi"
+  },
+  {
+   "name": "Camellia indochinensis",
+   "place": "Mainland Southeast Asia",
+   "n": 33,
+   "top": "CN:32 US:1",
+   "group": "plants"
+  },
+  {
+   "name": "Elephas melitensis",
+   "place": "Malta",
+   "n": 31,
+   "top": "IT:31",
+   "group": "mammals"
+  },
+  {
+   "name": "Dracunculus medinensis",
+   "place": "Medina",
+   "n": 25,
+   "top": "BJ:17 US:6 AU:1 IN:1",
+   "group": "inverts"
+  },
+  {
+   "name": "Leucoraja melitensis",
+   "place": "Malta",
+   "n": 22,
+   "top": "IT:11 DZ:4 ES:3 TN:3 FR:1",
+   "group": "fish"
+  },
+  {
+   "name": "Stachys serbica",
+   "place": "Serbia",
+   "n": 18,
+   "top": "GR:18",
+   "group": "plants"
+  },
+  {
+   "name": "Bachia guianensis",
+   "place": "Guyanas",
+   "n": 17,
+   "top": "CO:16 VE:1",
+   "group": "reptiles"
+  },
+  {
+   "name": "Bradgatia linfordensis",
+   "place": "Newtown Linford",
+   "n": 16,
+   "top": "CA:16",
+   "group": "inverts"
+  },
+  {
+   "name": "Notidanus aptiensis",
+   "place": "Apt",
+   "n": 15,
+   "top": "GB:14 AU:1",
+   "group": "fish"
+  },
+  {
+   "name": "Verbascum adrianopolitanum",
+   "place": "Edirne",
+   "n": 14,
+   "top": "GR:9 BG:4 US:1",
+   "group": "plants"
+  },
+  {
+   "name": "Catatemnus togoensis",
+   "place": "Togoland",
+   "n": 10,
+   "top": "CD:10",
+   "group": "arachnids"
+  },
+  {
+   "name": "Euonymus kachinensis",
+   "place": "Kachin State",
+   "n": 9,
+   "top": "CN:9",
+   "group": "plants"
+  },
+  {
+   "name": "Hedysarum grandiflorum subsp. bulgaricum",
+   "place": "Bulgaria",
+   "n": 9,
+   "top": "UA:5 RU:4",
+   "group": "plants"
+  },
+  {
+   "name": "Cryptosporiopsis tarraconensis",
+   "place": "Province of Tarragona",
+   "n": 8,
+   "top": "GB:5 US:3",
+   "group": "fungi"
+  },
+  {
+   "name": "Carex argunensis",
+   "place": "Ergun City",
+   "n": 7,
+   "top": "RU:7",
+   "group": "plants"
+  },
+  {
+   "name": "Periclimenes mahei",
+   "place": "Mahé",
+   "n": 7,
+   "top": "AU:4 YT:3",
+   "group": "inverts"
+  },
+  {
+   "name": "Phlebia wuliangshanensis",
+   "place": "Wuliang Shan",
+   "n": 7,
+   "top": "PK:7",
+   "group": "fungi"
+  },
+  {
+   "name": "Callionymus hainanensis",
+   "place": "Hainan Island",
+   "n": 7,
+   "top": "VN:7",
+   "group": "fish"
+  }
+ ],
+ "ep": {
+  "stems": 202,
+  "places": 79,
+  "taxa_wikidata": 61815,
+  "taxa_with_key": 53257,
+  "sampled": 7756,
+  "with_records": 3936,
+  "assessed": 3565,
+  "regions": 12,
+  "brit_sampled": 660,
+  "brit_assessed": 323,
+  "brit_yes_pc": 81.11455108359134,
+  "brit_no": 61,
+  "nonbrit_raw_yes_pc": 90.6230721776681,
+  "nonbrit_weighted_yes_pc": 91.04491334762349,
+  "max_per_stem": 41,
+  "brit": {
+   "Britain": {
+    "n": 84,
+    "yes": 76,
+    "yes_pc": 90.47619047619048,
+    "taxa_wikidata": 167
+   },
+   "Cornwall": {
+    "n": 6,
+    "yes": 5,
+    "yes_pc": 83.33333333333334,
+    "taxa_wikidata": 17
+   },
+   "England": {
+    "n": 80,
+    "yes": 70,
+    "yes_pc": 87.5,
+    "taxa_wikidata": 172
+   },
+   "Ireland": {
+    "n": 67,
+    "yes": 41,
+    "yes_pc": 61.19402985074627,
+    "taxa_wikidata": 170
+   },
+   "London": {
+    "n": 4,
+    "yes": 3,
+    "yes_pc": 75.0,
+    "taxa_wikidata": 16
+   },
+   "Scotland": {
+    "n": 63,
+    "yes": 50,
+    "yes_pc": 79.36507936507937,
+    "taxa_wikidata": 155
+   },
+   "Wales": {
+    "n": 19,
+    "yes": 17,
+    "yes_pc": 89.47368421052632,
+    "taxa_wikidata": 47
+   }
+  },
+  "brit_no_top": [
+   {
+    "name": "Potentilla anglica subsp. anglica",
+    "n": 2154,
+    "top": "DE:1778 FR:376",
+    "place": "England"
+   },
+   {
+    "name": "Robertus scoticus",
+    "n": 1892,
+    "top": "FI:739 NO:470 SE:203 BE:112 FR:101 DE:84",
+    "place": "Scotland"
+   },
+   {
+    "name": "Pisidium hibernicum",
+    "n": 1319,
+    "top": "FR:564 CH:370 SE:118 NO:103 NL:74 AT:52",
+    "place": "Ireland"
+   },
+   {
+    "name": "Diolcogaster scotica",
+    "n": 662,
+    "top": "CA:592 FI:59 RU:5 US:5 NO:1",
+    "place": "Scotland"
+   },
+   {
+    "name": "Pilidium anglicum",
+    "n": 649,
+    "top": "AU:574 IR:22 GT:12 GF:10 IT:7 US:7",
+    "place": "England"
+   },
+   {
+    "name": "Postia hibernica",
+    "n": 546,
+    "top": "FI:291 NO:169 SE:23 RU:19 IT:10 EE:9",
+    "place": "Ireland"
+   },
+   {
+    "name": "Pinnularia anglica",
+    "n": 284,
+    "top": "NL:115 BE:107 LU:14 AU:13 NZ:10 BR:6",
+    "place": "England"
+   },
+   {
+    "name": "Chrysoblephus anglicus",
+    "n": 267,
+    "top": "ZA:191 NA:71 YT:3 MZ:2",
+    "place": "England"
+   },
+   {
+    "name": "Campylodiscus hibernicus",
+    "n": 227,
+    "top": "BE:100 US:29 FR:23 DE:14 LU:14 MX:13",
+    "place": "Ireland"
+   },
+   {
+    "name": "Bisnius scoticus",
+    "n": 193,
+    "top": "NO:90 SE:78 FI:24 RU:1",
+    "place": "Scotland"
+   },
+   {
+    "name": "Nitokra hibernica",
+    "n": 172,
+    "top": "EE:79 US:25 CA:14 UA:13 IT:12 DE:6",
+    "place": "Ireland"
+   },
+   {
+    "name": "Nolandella hibernica",
+    "n": 156,
+    "top": "AU:143 DK:8 SE:4",
+    "place": "Ireland"
+   }
+  ],
+  "places_low": [
+   {
+    "place": "Hungary",
+    "share": 54.1,
+    "assessed": 37,
+    "region": 0
+   },
+   {
+    "place": "Mongolia",
+    "share": 67.6,
+    "assessed": 34,
+    "region": 0
+   },
+   {
+    "place": "Egypt",
+    "share": 68.8,
+    "assessed": 32,
+    "region": 0
+   },
+   {
+    "place": "Switzerland",
+    "share": 69.8,
+    "assessed": 43,
+    "region": 0
+   },
+   {
+    "place": "Poland",
+    "share": 70.0,
+    "assessed": 40,
+    "region": 0
+   },
+   {
+    "place": "Italy",
+    "share": 74.4,
+    "assessed": 43,
+    "region": 0
+   },
+   {
+    "place": "Denmark",
+    "share": 75.8,
+    "assessed": 33,
+    "region": 0
+   },
+   {
+    "place": "Iceland",
+    "share": 76.7,
+    "assessed": 30,
+    "region": 0
+   }
+  ],
+  "places_high": [
+   {
+    "place": "Tibet",
+    "share": 100.0,
+    "assessed": 20
+   },
+   {
+    "place": "Texas",
+    "share": 100.0,
+    "assessed": 119
+   },
+   {
+    "place": "Australia",
+    "share": 100.0,
+    "assessed": 19
+   },
+   {
+    "place": "New Zealand",
+    "share": 100.0,
+    "assessed": 104
+   },
+   {
+    "place": "Himalaya",
+    "share": 100.0,
+    "assessed": 83
+   },
+   {
+    "place": "Canary Islands",
+    "share": 100.0,
+    "assessed": 19
+   },
+   {
+    "place": "Brazil",
+    "share": 100.0,
+    "assessed": 17
+   },
+   {
+    "place": "Hawaii",
+    "share": 100.0,
+    "assessed": 19
+   }
+  ],
+  "places_15": 69,
+  "places_15_all": 9,
+  "brit_feat": {
+   "potentilla": {
+    "name": "Potentilla anglica subsp. anglica",
+    "n": 2154,
+    "top": "DE:1778 FR:376"
+   },
+   "robertus": {
+    "name": "Robertus scoticus",
+    "n": 1892,
+    "top": "FI:739 NO:470 SE:203 BE:112 FR:101 DE:84"
+   },
+   "chrysoblephus": {
+    "name": "Chrysoblephus anglicus",
+    "n": 267,
+    "top": "ZA:191 NA:71 YT:3 MZ:2"
+   },
+   "urophyllum": {
+    "name": "Urophyllum britannicum",
+    "n": 51,
+    "top": "PG:51"
+   }
+  }
+ },
+ "review": {
+  "n": 53,
+  "by": {
+   "not recorded": 26,
+   "wrong link": 9,
+   "synonym key": 7,
+   "duplicate": 5,
+   "misnomer": 3,
+   "region corrected": 3
+  },
+  "errors": 24,
+  "kept": 29,
+  "misnomer": 3,
+  "error_pc": 45.283018867924525,
+  "yes_wrong_links": 49,
+  "spot_n": 30,
+  "spot_wrong": 3
+ }
+}
