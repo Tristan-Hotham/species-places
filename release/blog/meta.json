@@ -1,0 +1,17 @@
+{
+  "title": "Named for a place, living somewhere else?",
+  "slug": "species-places",
+  "excerpt": "Thousands of species are named after a place. I matched 2,901 of them to GBIF records: 98% of those I could test are recorded in that country. The coco de mer, named for the Maldives, grows in the Seychelles.",
+  "seo_description": "Do species named after a place live there? 98% are recorded in that country; the coco de mer is named for the Maldives but grows in the Seychelles.",
+  "tags": [
+    "maps",
+    "data visualisation",
+    "biodiversity",
+    "taxonomy",
+    "scientific names",
+    "GBIF",
+    "Wikidata",
+    "natural history"
+  ],
+  "header_alt": "Title card on parchment reading 'Named for a place, living somewhere else?' beside a world map of green and red dots at the places species are named after, with a red arrow from the Maldives to the Seychelles."
+}
