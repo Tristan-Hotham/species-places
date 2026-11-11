@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Named for a Place, Living Somewhere Else? Species Named After Places, Tested Against Where GBIF Records Them"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.24058123"
+url: "https://maps.tristanhotham.com/species-places/"
+repository-code: "https://github.com/Tristan-Hotham/species-places"
+license: CC-BY-4.0
+keywords:
+  - "biological nomenclature"
+  - "toponyms"
+  - "specific epithets"
+  - "GBIF"
+  - "Wikidata"
+  - "species distributions"
+  - "misnomers"
+  - "biodiversity data"
